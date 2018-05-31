@@ -67,7 +67,7 @@ A vector of keywords to hash from the post params.
 
 **params**
 
-Post params to send to deploy server.
+A hash-map of params to put in the post body of the deploy request.
 
 ### Bugs
 
