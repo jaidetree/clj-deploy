@@ -1,4 +1,4 @@
-(defproject clj-deploy "0.1.0-SNAPSHOT"
+(defproject clj-deploy "0.1.0"
   :description "A simple library to post generic deploy instructions to various webservers."
   :url "https://github.com/jayzawrotny/clj-deploy"
   :license {:name "BSD 3 Clause"
