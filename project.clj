@@ -7,5 +7,6 @@
                  [clj-sign "0.1.1"]
                  [clj-http "3.9.0"]
                  [cheshire "5.8.0"]]
+  :deploy-repositories [["releases" :clojars]]
   :target-path "target/%s"
   :profiles {:uberjar {:aot :all}})
